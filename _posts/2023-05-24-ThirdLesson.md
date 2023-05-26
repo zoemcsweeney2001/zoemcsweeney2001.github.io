@@ -1,4 +1,5 @@
-# Lesson 3 From the Course # ![Heart](/images/heart.png)
+![Heart](/images/heart.png) 
+# Lesson 3 From the Course 
 ## Learning Activities
 **The First Learning activity was Creating a Pet Breed Detector and then improving on it**. ![Heart](/images/heart.png)
 <br />
