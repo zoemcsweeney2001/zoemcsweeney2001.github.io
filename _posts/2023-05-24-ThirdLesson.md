@@ -1,7 +1,7 @@
 ![Heart](/images/heart.png) 
 # Lesson 3 From the Course 
 ## Learning Activities
-**The First Learning activity was Creating a Pet Breed Detector and then improving on it**. ![Heart](/images/heart.png)
+**The First Learning activity was Creating a Pet Breed Detector and then improving on it**.
 <br />
 This introduced how you would save your model again and using paperspace and JupyterLabs to do so. <br />
 
