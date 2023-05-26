@@ -2,4 +2,4 @@
 ## Learning Activities
 ## Key Takeaways 
 ## How this is Applicable 
-## Links to Lesson
+## <span style="color:blue">Links To This Lesson</span>
