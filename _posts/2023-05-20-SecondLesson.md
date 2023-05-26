@@ -6,7 +6,7 @@ This introduced how you would save your model for use in an app possible from Ju
 It used the bears example to show you how to use the ImageClassifierCleaner to remove invalid images from the datatset<br />
 It then went into a little bit more about the data blocks and using the data augmenter to increase the speed of the leaner <br />
 It also showed how to create a confusion matrix which is pictured below <br />
-![](images/confusion.png)
+![Conf Matrix](images/confusion.png)  <br />
 
 **The Next Learning activity On Getting the model ready for the use on Hugging Face space**
 
