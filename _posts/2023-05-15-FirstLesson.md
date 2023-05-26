@@ -2,4 +2,4 @@
 ## Learning Activities
 ## Key Takeaways 
 ## How this is Applicable 
-## <span style="color:blue">some *blue* text</span>
+## <span style="color:blue">Links To This Lesson</span>
