@@ -1,4 +1,4 @@
-# Lesson 3 From the Course
+# Lesson 3 From the Course ![Heart](/images/heart.png)
 ## Learning Activities
 **The First Learning activity was Creating a Pet Breed Detector and then improving on it**. <br />
 This introduced how you would save your model again and using paperspace and JupyterLabs to do so. <br />
