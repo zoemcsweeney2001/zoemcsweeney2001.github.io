@@ -1,4 +1,4 @@
-# Lesson 2 From the Course ![Heart](/images/heart.png)
+# Lesson 2 From the Course ![Heart](/images/heart.png)<br />
 **The First Learning activity How to put the models into Production**. <br />
 This introduced how you would save your model for use in an app possible from Jupyter using the extension. <br />
 
