@@ -1,4 +1,5 @@
-# About
+# About  :wave: 
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+This Blog is by me, Zoe McSweeney, A 5th Year Electrical Engineering Student with the University of Queensland
+It is about my experience and an over view of the fastai course by Jeremy Howard see here ["Jeremy's Course](https://course.fast.ai/).
 
