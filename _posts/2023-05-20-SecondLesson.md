@@ -1,4 +1,4 @@
-# Lesson 1 From the Course
+# Lesson 2 From the Course
 ## Learning Activities
 ## Key Takeaways 
 ## How this is Applicable 
