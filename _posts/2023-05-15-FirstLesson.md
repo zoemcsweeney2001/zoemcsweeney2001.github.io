@@ -1,4 +1,4 @@
-# Lesson 1 From the Course
+# Lesson 1 From the Course ![Heart](/images/heart.png)
 ## Learning Activities
 **The First Learning activity was the *is it a bird* tutorial**. <br />
 This introduced the ideas of how to get images from the internet, how to create the model and a little bit about the data loaders and the data block. <br />
