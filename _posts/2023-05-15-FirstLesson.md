@@ -13,6 +13,7 @@ This went into the use of fine_tune and the vision_learner and a couple differen
 - How to use dataloaders and create the learn model and fine tune it <br />
 - How to test the model using predict <br />
 - How to create the Jupyter Notebook <br />
+
 ## How this is Applicable 
 We will have to use the internet to get pictures for Question 2 in the assignment. <br />
 I created my own Kaggle page and Jupyter Notebook for Question 3 which you can find in The Assignment Blog Post<br />
