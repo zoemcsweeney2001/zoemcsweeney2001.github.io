@@ -7,7 +7,7 @@ This introduced how you would save your model again and using paperspace and Jup
 A link to the Kaggle Notebook that it was worked from is [here](https://www.kaggle.com/code/jhoward/which-image-models-are-best) <br />
 And hten there is another one that is about vision leanring which is a bit more practicle for starting and is linked [here](https://www.kaggle.com/code/jhoward/the-best-vision-models-for-fine-tuning)  <br />
 There is a handy image that shows the differnet models against time and accuracy, the top left is the best option with high accuracy and not long run time <br />
-![Comparison](images/modelscomp.png)  <br />
+![Comparison](/images/modelscomp.png)  <br />
 
 **The Next Learning activity was about loss functions and how neural nets work**
 
